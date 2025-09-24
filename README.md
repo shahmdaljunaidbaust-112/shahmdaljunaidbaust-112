@@ -62,7 +62,7 @@
 
 ## 📫 Contact Me  
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+- 📧 Email: [junaedalmugdho@gmail.com](mailto:your.email@example.com)  
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
 - 🐦 Twitter/X: [@yourhandle](https://twitter.com/yourhandle)  
